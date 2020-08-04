@@ -1,0 +1,17 @@
+{
+  "name": "learningjavascript",
+  "version": "1.0.0",
+  "description": "i am trying to learn javascript. and you askin all these questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amateur_hour"
+  ],
+  "author": "David Schneider",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
